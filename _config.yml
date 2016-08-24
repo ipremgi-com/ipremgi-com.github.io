@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
+title: Dong Liang's CV
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://ipremgi-com.github.io/
+url: https://ipremgi-com.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 

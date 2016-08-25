@@ -47,9 +47,11 @@ author:
       title: Maths Assistant
       started: 2013
       duration: (2013 - 2014)
-      description: "hello 
-      \n 
-      ivan"
+      description:  |+
+  This is a long string
+
+
+  with new lines
   educationHistory:
     - education1:
       organization: Aston University

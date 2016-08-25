@@ -48,10 +48,10 @@ author:
       started: 2013
       duration: (2013 - 2014)
       description:  |+
-  This is a long string
+       This is a long string
 
 
-  with new lines
+        with new lines
   educationHistory:
     - education1:
       organization: Aston University

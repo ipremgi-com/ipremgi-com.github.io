@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV
-description: ddbullfrog's CV
+title: Ivan Premgi's CV
+description: Ivan Premgi's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ipremgi-com.github.io/
 url: https://ipremgi-com.github.io/
@@ -14,10 +14,10 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
+  name: Ivan Premgi
+  title: Software Enginner
+  address: London, United Kingdom
+  email: ivan@ivanpremgi.com
   link: http://ddbullfrog.com
   weibo:
   github: ddbullfrog

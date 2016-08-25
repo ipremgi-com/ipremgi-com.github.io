@@ -67,7 +67,7 @@ author:
   programmingSkills:
     - skill1:
       name: Java
-      percentage: 45%
+      percentage: 60%
     - skill2:
       name: Scala
       percentage: 10%
@@ -76,7 +76,7 @@ author:
       percentage: 20%
     - skill4:
       name: SQL
-      percentage: 25%
+      percentage: 40%
     - skill5:
       name: Korn Shell
       percentage: 30%

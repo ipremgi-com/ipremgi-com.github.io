@@ -49,7 +49,15 @@ author:
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
-    - education1:
+  - education1:
+      organization: Aston University
+      location: Birmingham, United Kingdom
+      degree: Bachelor of Science
+      major: Digital & Techonology Solutions
+      started: 2016
+      duration: (2016 - 2019)
+      description: Need to ADD
+    - education2:
       organization: Acton High Sixth Form
       location: London, United Kingdom
       degree: A-Levels

@@ -49,7 +49,7 @@ author:
       duration: (2013 - 2014)
       description: |
         This is a multi-line string.
-        "special" metacharacters may
+         metacharacters may
        appear here. The extent of this string is
         indicated by indentation. 
   educationHistory:

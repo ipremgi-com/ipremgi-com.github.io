@@ -14,11 +14,11 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Ivan Premgi
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  address: London, United Kingdom
+  email: ivan@ivanpremgi.com
+  link: http://www.ivanpremgi.com/
   weibo:
   github: ddbullfrog
   linkedin: ddbullfrog

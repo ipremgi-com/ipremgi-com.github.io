@@ -1,9 +1,17 @@
 # Site settings
+<<<<<<< HEAD
 title: Ivan Premgi's CV 
 description: Ivan Premgi's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://github.com/ipremgi-com/ipremgi-com.github.io
 url: https://github.com/ipremgi-com/ipremgi-com.github.io
+=======
+title: Ivan Premgi's CV
+description: Ivan Premgi's CV
+favicon: /assets/img/avatar.JPG
+baseurl: https://ipremgi-com.github.io/
+url: https://ipremgi-com.github.io/
+>>>>>>> refs/remotes/origin/master
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -15,71 +23,85 @@ exclude: [vendor]
 # Author settings
 author:
   name: Ivan Premgi
+<<<<<<< HEAD
   title: Java Developer
   address: London, United Kingdom
   email: ivan@ivanpremgi.com
   link: http://www.ivanpremgi.com/
+=======
+  title: Software Enginner
+  address: London, United Kingdom
+  email: ivan@ivanpremgi.com
+  link: http://ivanpremgi.com
+>>>>>>> refs/remotes/origin/master
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  # github: 
+  linkedin: ivan-premgi-b6194ba2
+  # twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
+      company: Capgemini UK Plc
+      location: London, United Kingdom
       title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      started: 2015
+      duration: (2015 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
+      company: Capgemini UK Plc
+      location: London, United Kingdom
+      title: Developer
+      started: 2014
+      duration: (2014 - 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
+<<<<<<< HEAD
       company: Citigroup Services and Technology (China) Limited
       location: Shanghai, China
       title: Java Developer
       started: 2009
       duration: (2009 - 2012)
       description: "\n" + I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+=======
+      company: Kumon
+      location: London, United Kingdom
+      title: Maths Assistant
+      started: 2013
+      duration: (2013 - 2014)
+      description: dkdkdkkdkkdkkdk
+        xfdf
+>>>>>>> refs/remotes/origin/master
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Aston University
+      location: Birmingham, United Kingdom
+      degree: Bachelor of Science
+      major: Digital & Technology Solutions
+      started: 2016
+      duration: (2016 - 2019)
+      description: Need to ADD
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Gujarati
+      proficiency: Novice
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Java
+      percentage: 60%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Scala
+      percentage: 10%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: Spring
+      percentage: 20%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: SQL
+      percentage: 40%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Korn Shell
+      percentage: 30%

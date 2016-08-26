@@ -1,7 +1,7 @@
 # Site settings
 title: Ivan Premgi's CV
 description: Ivan Premgi's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/ivan.JPG
 baseurl: https://ipremgi-com.github.io/
 url: https://ipremgi-com.github.io/
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   # github:
   linkedin: ivan-premgi-b6194ba2
   # twitter:
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resumecard/assets/img/icon.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:

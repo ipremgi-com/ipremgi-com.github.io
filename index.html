@@ -36,14 +36,13 @@ layout: default
                                         </small>
                                     </p>
                                 </div>
-                                {% for desc in site.author.description %}
-                                  <div class="timeline-body">
-                                      {% if work.description %}
-                                          <p>{{ work.description }}</p>
-                                      {% endif %}
 
-                                </div>
-                                {% endfor %}
+                                <div class="timeline-body">
+                                   {% if work.description %}
+-                                     <p>{{ work.description }}</p>
+                                   {% endif %}
+                               </div>
+
                             </div>
                         </li>
                     {% endfor %}

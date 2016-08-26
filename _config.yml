@@ -1,17 +1,9 @@
 # Site settings
-<<<<<<< HEAD
-title: Ivan Premgi's CV 
-description: Ivan Premgi's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://github.com/ipremgi-com/ipremgi-com.github.io
-url: https://github.com/ipremgi-com/ipremgi-com.github.io
-=======
 title: Ivan Premgi's CV
 description: Ivan Premgi's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ipremgi-com.github.io/
 url: https://ipremgi-com.github.io/
->>>>>>> refs/remotes/origin/master
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,17 +15,10 @@ exclude: [vendor]
 # Author settings
 author:
   name: Ivan Premgi
-<<<<<<< HEAD
-  title: Java Developer
-  address: London, United Kingdom
-  email: ivan@ivanpremgi.com
-  link: http://www.ivanpremgi.com/
-=======
   title: Software Enginner
   address: London, United Kingdom
   email: ivan@ivanpremgi.com
   link: http://ivanpremgi.com
->>>>>>> refs/remotes/origin/master
   weibo:
   # github: 
   linkedin: ivan-premgi-b6194ba2
@@ -57,14 +42,6 @@ author:
       duration: (2014 - 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-<<<<<<< HEAD
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: "\n" + I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-=======
       company: Kumon
       location: London, United Kingdom
       title: Maths Assistant
@@ -72,7 +49,6 @@ author:
       duration: (2013 - 2014)
       description: dkdkdkkdkkdkkdk
         xfdf
->>>>>>> refs/remotes/origin/master
   educationHistory:
     - education1:
       organization: Aston University

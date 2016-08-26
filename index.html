@@ -35,13 +35,16 @@ layout: default
                                         </small>
                                     </p>
                                 </div>
+                                {% for desc in work.description %}
                                 <div class="timeline-body">
-                                    {% for desc in work.description %}
+
+
                                       {% if desc %}
                                           <p>{{ desc }}</p>
                                       {% endif %}
-                                    {% endfor %}
+
                                 </div>
+                                  {% endfor %}
                             </div>
                         </li>
                     {% endfor %}

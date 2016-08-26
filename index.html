@@ -8,7 +8,6 @@ layout: default
                 <h3 class="title with-icon"><span class="glyphicon glyphicon-plane cat-title"></span>Work History</h3>
                 <ul class="timeline">
                     {% for work in site.author.workHistory %}
-                    <p>{{ work.location }}</p>
                         <li class="timeline-inverted">
                             {% if work.started %}
                                 <div class="timeline-badge info">{{ work.started }}</div>
@@ -36,13 +35,11 @@ layout: default
                                         </small>
                                     </p>
                                 </div>
-
                                 <div class="timeline-body">
-                                   {% if work.description %}
--                                     <p>{{ work.description }}</p>
-                                   {% endif %}
-                               </div>
-
+                                    {% if work.description %}
+                                        <p>{{ work.description }}</p>
+                                    {% endif %}
+                                </div>
                             </div>
                         </li>
                     {% endfor %}

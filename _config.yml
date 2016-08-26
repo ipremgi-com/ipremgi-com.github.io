@@ -40,9 +40,10 @@ author:
       title: Developer
       started: 2014
       duration: (2014 - 2015)
-      description: hellow
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-      description: yoyo
+        - description:
+            desc1: hellow
+            desc2: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+            desc3: yoyo
     - work3:
       company: Kumon
       location: London, United Kingdom

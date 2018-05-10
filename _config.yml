@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Ivan Premgi
-  title: Software Enginner
+  title: Software Engineer Lead
   address: London, United Kingdom
   email: ivan@ivanpremgi.com
   link: http://ivanpremgi.com
@@ -27,16 +27,23 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work1:
+   - work1:
       company: Capgemini UK Plc
       location: London, United Kingdom
+      title: Big Data Engineer
+      started: 2017
+      duration: (2017 - Present)
+      description: Creating a platform which enables real-time message processing allowing the client to make smarter and efficient decisions. Big data technologies used (NiFi, Samza (Java Framework), Kakfa, Spark, ElasticSearch and GreenPlum)
+    - work2:
+      company: Capgemini UK Plc
+      location: Telford, United Kingdom
       title: Java Developer
       started: 2015
       duration: (2015 - Present)
       description: Working of a suite of modules, Leap Data Transformation Framework, that accelerate all the phases of the lifecycle of the transformation legacy databases to Big Data architectures. The use of Leap Data Transformation Framework led to an overall 30% improvement in efficiencies.
-    - work2:
+    - work3:
       company: Capgemini UK Plc
-      location: London, United Kingdom
+      location: Telford, United Kingdom
       title: Developer
       started: 2014
       duration: (2014 - 2015)
